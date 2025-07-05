@@ -1,0 +1,2 @@
+Hello from dummy.txt
+This is a test file.

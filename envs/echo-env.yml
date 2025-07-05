@@ -1,0 +1,5 @@
+name: echo-env
+channels:
+  - conda-forge
+dependencies:
+  - coreutils
