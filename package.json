@@ -1,0 +1,22 @@
+{
+  "name": "workflow-runner-test-nextflow",
+  "version": "0.1.0",
+  "description": "Sample nextflow workflow that uses: i) a process with a conda environment config ii) a process with a Docker container config",
+  "main": "run-nextflow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsbrittain/workflow-runner-test-nextflow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsbrittain/workflow-runner-test-nextflow/issues"
+  },
+  "homepage": "https://github.com/jsbrittain/workflow-runner-test-nextflow#readme",
+  "dependencies": {
+    "dockerode": "^4.0.7"
+  }
+}
